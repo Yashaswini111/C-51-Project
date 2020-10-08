@@ -1,0 +1,31 @@
+h1{
+    background-color: aqua;
+    color: blueviolet;
+    margin: 50px;
+    margin-left: 500px;
+    font-size: 50px;
+    text-align: center;
+ 
+}
+p{
+    text-align: left;
+    font-size: 20px;
+}
+h3{
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    background-color: fuchsia;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    color: #9370d8;
+    margin-left: 600px;
+    font-size: 17px;
+}
+.grid{
+    color: #000000;
+    background-color: #289199;
+}
